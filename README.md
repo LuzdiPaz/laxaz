@@ -2,11 +2,11 @@
 to my bff I'm Xaz
 
 Practice for: 
-Index  = jquerys
-Index 2= jquerys
-Index 3 = normalize
-Index 4 = reset
-Index 5 = Grid's
-Index 6 = Grid's
-Index 7 = Grid's
+<br> Index  = jquerys
+<br> Index 2= jquerys
+<br> Index 3 = normalize
+<br> Index 4 = reset
+<br> Index 5 = Grid's
+<br> Index 6 = Grid's
+<br> Index 7 = Grid's
 
